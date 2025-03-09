@@ -8,5 +8,20 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeGuiOne/Guilherme-Dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SomeGuiOne/Guilherme-Dev/issues"
+  },
+  "homepage": "https://github.com/SomeGuiOne/Guilherme-Dev#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0"
+  }
 }
